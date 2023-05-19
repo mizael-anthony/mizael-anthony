@@ -3,8 +3,8 @@ I'm Mizael Anthony, a passionate software developer and AI enthusiast.<br/>Curre
 
 <h2> 🚀 &nbsp;Tech Stack </h2>
 <p align="left">
- <strong>💻 Frontend:</strong>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="20" height="20"/></span>
+💻 Frontend :
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="20" height="20"/>
 ReactJS
 </p>
 
