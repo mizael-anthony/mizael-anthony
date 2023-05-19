@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mizael-anthony
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mizael Anthony
+- 👀 I’m interested in Software Development, Artifical Intelligence
+- 🌱 I’m constantly learning to improve my skills
+
+
 
 <!---
 mizael-anthony/mizael-anthony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
