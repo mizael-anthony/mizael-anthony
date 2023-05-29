@@ -1,5 +1,5 @@
-<h2>👋 Welcome to my GitHub profile</h2>
-I'm Mizael Anthony, a passionate software developer and AI enthusiast.<br/>Currently, I'm focusing on honing my skills in software development and diving deeper into the exciting field of artificial intelligence. I'm always seeking new challenges and opportunities to learn and grow.
+<h2>👋 Hello world !</h2>
+I'm Mizael Anthony, a passionate software developer and AI.<br/>Currently, I'm focusing on honing my skills in software development and always seeking new challenges and opportunities to learn and grow.
 <h2> 🚀 &nbsp;Tech Stack </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="60" height="60" />
