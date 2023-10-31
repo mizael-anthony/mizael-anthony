@@ -2,7 +2,7 @@
 I'm Mizael Anthony, a passionate software developer and AI.<br/>Currently, I'm focusing on honing my skills in software development and always seeking new challenges and opportunities to learn and grow.
 <h2> 🚀 &nbsp;Tech Stack </h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS"  width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"  width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"  width="60" height="60" />
