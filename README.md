@@ -17,7 +17,7 @@
 <a href="https://discord.gg/https://discord.gg/Rg4w5szC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Rg4w5szC" height="30" width="40" /></a>
 </p>
 
-<h3> 🚀 &nbsp;Tech Stack</h3>
+<h3> 🛠️ &nbsp;Tech Stack</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="Python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  alt="Dart"  width="40" height="40"/>
