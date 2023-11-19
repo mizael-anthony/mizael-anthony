@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI and Big Data**
 
-- 💬 Ask me about **Python, Data**
+- 💬 Ask me about **Python, SQL, Data**
 
 - 📫 How to reach me **mizaelanthony07@gmail.com**
 
