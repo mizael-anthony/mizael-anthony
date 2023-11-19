@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I'am funny**
 
-<h3> 🛠️ &nbsp;Tech Stack</h3>
+<h3> 🛠️ &nbsp;Tech Stack and tools</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
