@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mizael Anthony</h1>
 <h3 align="center">A passionate python developer and data analyst </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mizael-anthony&label=Profile%20views&color=0e75b6&style=flat" alt="mizael-anthony" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mizael-anthony&label=Profile%20views&color=0e75b6&style=flat" alt="mizael-anthony" /></p>
 
 - 🌱 I’m currently learning **AI and Big Data**
 
@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flutter,nextjs,git,docker,linux,selenium,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=django,flutter,nextjs,git,linux,selenium,postgres,mongodb" />
   </a>
 </p>
 
