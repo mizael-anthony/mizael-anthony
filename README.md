@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flutter,nextjs,git,linux,selenium,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=django,rails,flutter,nextjs,git,linux,selenium,postgres,mongodb" />
   </a>
 </p>
 
