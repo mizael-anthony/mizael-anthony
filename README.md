@@ -23,7 +23,7 @@
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=django,rails,react,next,postgresql,mongodb,git,linux,docker,heroku" />
+    <img src="https://skillicons.dev/icons?i=django,rails,next,postgresql,mongodb,git,linux,docker,heroku" />
 </div>
 
 <br/>
