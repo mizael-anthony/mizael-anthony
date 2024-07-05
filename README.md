@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Saas**
  
- 🌱 I’m currently learning **Docker, AWS, CI/CD**
+ 🌱 I’m currently learning **Machine Learning**
 
 💬 Ask me about **Python, Ruby, SQL**
 
