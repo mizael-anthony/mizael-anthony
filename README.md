@@ -11,7 +11,6 @@
 <div align="center">
  
 I'm a passionate backend developer with expertise in Ruby, Python, and DevOps. I specialize in building scalable APIs, optimizing system performance, and automating deployments. I thrive in designing robust architectures and ensuring seamless CI/CD pipelines for efficient software delivery.
-I believe that great software is not just about writing code—it’s about solving real-world problems, making systems efficient, and empowering businesses with technology. I love working on backend systems because they are the backbone of any application, ensuring speed, reliability, and security. DevOps, to me, is about bridging the gap between development and operations, enabling smooth, automated workflows that bring ideas to life faster.
 
  </div>
 
