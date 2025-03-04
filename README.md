@@ -4,17 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=boli&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mizael+Anthony!;" />
 </h1>
 
-<h3 align="center">A passionate Python Developer from Madagascar 🇲🇬</h3>
+<h3 align="center">A passionate Backend Developer from Madagascar 🇲🇬</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a Saas**
- 
- 🌱 I’m currently learning **Machine Learning**
-
-💬 Ask me about **Python, Ruby, SQL**
+I'm a passionate backend developer with expertise in Ruby, Python, and DevOps. I specialize in building scalable APIs, optimizing system performance, and automating deployments. I thrive in designing robust architectures and ensuring seamless CI/CD pipelines for efficient software delivery.
+I believe that great software is not just about writing code—it’s about solving real-world problems, making systems efficient, and empowering businesses with technology. I love working on backend systems because they are the backbone of any application, ensuring speed, reliability, and security. DevOps, to me, is about bridging the gap between development and operations, enabling smooth, automated workflows that bring ideas to life faster.
 
  </div>
 
