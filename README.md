@@ -10,7 +10,7 @@
 
 <div align="center">
  
-I'm a passionate backend developer with expertise in Ruby, Python, and DevOps. I specialize in building scalable APIs, optimizing system performance, and automating deployments. I thrive in designing robust architectures and ensuring seamless CI/CD pipelines for efficient software delivery.
+I'm a passionate backend developer with expertise in Ruby, Python. I specialize in building scalable APIs, optimizing system performance, and automating deployments. I thrive in designing robust architectures and ensuring seamless CI/CD pipelines for efficient software delivery.
 
  </div>
 
@@ -19,7 +19,7 @@ I'm a passionate backend developer with expertise in Ruby, Python, and DevOps. I
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,ruby,django,rails,postgresql,mongodb,git,linux,docker,notion" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,ruby,django,fastapi,pytest,rails,rubocop,nextjs,reactnative,htmx,postgresql,mongodb,git,linux,docker,caddy,notion,jira" />
 </div>
 
 <br/>
