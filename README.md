@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=boli&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mizael+Anthony!;" />
 </h1>
 
-<h3 align="center">A passionate Backend Developer from Madagascar 🇲🇬</h3>
+<h3 align="center">A passionate Mobile/Backend Developer from Madagascar 🇲🇬</h3>
 
 <br/>
 
@@ -19,7 +19,7 @@ I'm a passionate backend developer with expertise in Ruby, Python. I specialize 
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,ruby,django,fastapi,pytest,rails,rubocop,nextjs,reactnative,htmx,postgresql,mongodb,git,linux,docker,caddy,notion,jira" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,ruby,django,rails,nextjs,reactnative,htmx,postgresql,redis,git,linux,docker,notion" />
 </div>
 
 <br/>
