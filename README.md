@@ -23,7 +23,7 @@ I'm a passionate backend developer with expertise in Ruby, Python. I specialize 
 <br/>
 
 <div align="center">
-     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizael-anthony&langs_count=6&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5" alt="Top Langs"/>
+     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizael-anthony&langs_count=4&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5" alt="Top Langs"/>
 </div>
 <br/>
 
