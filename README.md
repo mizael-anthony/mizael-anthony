@@ -4,13 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=boli&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mizael+Anthony!;" />
 </h1>
 
-<h3 align="center">A passionate Backend Developer from Madagascar 🇲🇬</h3>
+<h3 align="center">A Passionate Backend Developer from Madagascar 🇲🇬</h3>
 
 <br/>
 
 <div align="center">
-I'm a passionate backend developer with expertise in Ruby, Python. I specialize in building scalable APIs, optimizing system performance, and automating deployments. I thrive in designing robust architectures and ensuring seamless CI/CD pipelines for efficient software delivery.
+I'm a dedicated backend developer with expertise in Ruby and Python. I specialize in building scalable APIs, optimizing system performance, and automating deployments. I excel at designing robust architectures and maintaining seamless CI/CD pipelines for efficient software delivery.<br/><br/>
+Currently, I'm diving into Machine Learning to integrate innovative AI solutions into my projects.
 </div>
+
 <br/>
 
 <hr/>
