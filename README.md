@@ -37,7 +37,7 @@ Currently, I'm diving into Machine Learning to integrate innovative AI solutions
  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mizael-anthony&theme=darkhub&no-frame=true&margin-w=5" alt="Achievements"/>
   <br/><br/>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mizael-anthony&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mizael-anthony&theme=whatsapp-dark2&hide_border=true)](https://git.io/streak-stats)
   <br/><br/>
   
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=mizael-anthony&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="GitHub Stats"/>
