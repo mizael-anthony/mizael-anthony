@@ -20,7 +20,7 @@ Currently, I'm diving into Machine Learning to integrate innovative AI solutions
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,htmx,react,postgresql,redis,git,linux,docker,notion"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,react,postgresql,redis,git,linux,docker,notion"/>
 </div>
 <br/>
 
