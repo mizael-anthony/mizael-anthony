@@ -56,7 +56,7 @@ to teaching, competition, and game analysis.
 <h2 align="center">📬 Get in Touch</h2>
 
 <div align="center">
-  💼 <a href="https://www.linkedin.com/in/mizael-anthony" target="_blank">LinkedIn</a> •  
+  💼 <a href="https://discord.gg/BBe97RnT" target="_blank">Discord</a> •  
   ♟️ <a href="https://www.chess.com/member/mizael_anthony_365" target="_blank">Chess.com</a> •  
   🧠 <a href="https://www.kaggle.com/mizaelanthony" target="_blank">Kaggle</a> •  
   🌐 <a href="https://v0-personal-livid-chi.vercel.app" target="_blank">Portfolio</a>
