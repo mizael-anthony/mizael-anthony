@@ -52,11 +52,3 @@ to teaching, competition, and game analysis.
 <br/>
 
 <hr/>
-
-<h2 align="center">📬 Let's Connect</h2>
-
-<div align="center">
-  💼 <a href="https://www.linkedin.com/in/mizael-anthony" target="_blank">LinkedIn</a> •  
-  🧠 <a href="https://lichess.org/@/your-lichess" target="_blank">Lichess</a> •  
-  🌐 <a href="https://your-website.com" target="_blank">Portfolio</a>
-</div>
