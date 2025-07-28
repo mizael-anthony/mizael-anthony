@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mizael+Anthony!" />
 </h1>
 
-<h3 align="center">🧠 Passionate Fullstack Developer & Chess Player from Madagascar 🇲🇬</h3>
+<h3 align="center">🧠 Passionate Fullstack Developer from Madagascar 🇲🇬</h3>
 
 <br/>
 
@@ -12,9 +12,6 @@ I bring a unique mindset to problem-solving: <strong>analytical, rigorous, and s
 
 💻 As a developer, I specialize in building scalable applications and APIs using  
 <strong>Python, React, Ruby on Rails</strong>. I love designing robust architectures
-
-♟️ As a chess coach and player, I apply the same principles of clarity and precision  
-to teaching, competition, and game analysis.
 
 🚀 Currently learning Machine Learning to build smarter, AI-driven apps.
 
