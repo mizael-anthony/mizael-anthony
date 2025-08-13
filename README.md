@@ -2,19 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mizael+Anthony!" />
 </h1>
 
-<h3 align="center">🧠 Passionate Fullstack Developer from Madagascar 🇲🇬</h3>
+<h3 align="center">💻 Backend & Web Developer from Madagascar 🇲🇬</h3>
 
 <br/>
 
 <div align="center">
-With over <strong>10,000 hours</strong> of practice across software development and competitive chess,  
-I bring a unique mindset to problem-solving: <strong>analytical, rigorous, and strategic</strong>.
+With over <strong>10,000 hours</strong> in software development and competitive chess,  
+I combine <strong>analytical thinking, precision, and strategy</strong> to deliver high-quality solutions.
 
-💻 As a developer, I specialize in building scalable applications and APIs using  
-<strong>Python, React, Ruby on Rails</strong>. I love designing robust architectures
+🚀 I help startups and SMEs build <strong>scalable web applications and robust APIs</strong> using  
+<strong>Django, FastAPI, Ruby on Rails, and ReactJS</strong>, with a strong focus on maintainable architecture, testing, and cloud deployment.
 
-🚀 Currently learning Machine Learning to build smarter, AI-driven apps.
-
+🌱 Currently exploring <strong>Machine Learning</strong> to create smarter, AI-driven applications.
 </div>
 
 <br/>
@@ -24,7 +23,7 @@ I bring a unique mindset to problem-solving: <strong>analytical, rigorous, and s
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,react,postgresql,redis,git,linux,docker,notion"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,react,python,postgresql,redis,git,linux,docker,notion"/>
 </div>
 
 <br/>
