@@ -22,7 +22,7 @@ With over <strong>10,000 hours</strong> in software development and competitive 
 
 <h2 align="center">⚒ Tech Stack & Tools</h2>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,react,postgresql,redis,streamlit,sentry,notion,n8n"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,next,postgresql,redis,streamlit,sentry,notion,n8n"/>
 </div>
 
 <br/>
