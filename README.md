@@ -11,7 +11,7 @@ With over <strong>10,000 hours</strong> in software development and competitive 
 <strong>analytical thinking, precision, and strategic vision</strong>.
 
 🚀 I partner with startups, SMEs, and solopreneurs to design scalable applications and robust APIs using
-<strong>Django, FastAPI, Ruby on Rails</strong>, and <strong>React.js</strong>. My approach emphasizes clean architecture, automated testing, DevOps pipelines, and reliable cloud deployment.
+<strong>Django, FastAPI, Ruby on Rails</strong>, and <strong>NextJS</strong>. My approach emphasizes clean architecture, automated testing, DevOps pipelines, and reliable cloud deployment.
 
 🌱 Currently diving into <strong>Machine Learning</strong> to build smarter, AI-powered solutions.
 </div>
