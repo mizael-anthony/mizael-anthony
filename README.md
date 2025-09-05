@@ -11,7 +11,7 @@ With over <strong>10,000 hours</strong> in software development and competitive 
 I combine <strong>analytical thinking, precision, and strategy</strong> to deliver high-quality solutions.
 
 🚀 I help startups and SMEs build <strong>scalable web applications and robust APIs</strong> using  
-<strong>Django, FastAPI, Ruby on Rails, and ReactJS</strong>, with a strong focus on maintainable architecture, testing, and cloud deployment.
+<strong>Django, FastAPI, Ruby on Rails, and NextJS</strong>, with a strong focus on maintainable architecture, testing, and cloud deployment.
 
 🌱 Currently exploring <strong>Machine Learning</strong> to create smarter, AI-driven applications.
 </div>
@@ -23,7 +23,7 @@ I combine <strong>analytical thinking, precision, and strategy</strong> to deliv
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,react,postgresql,redis,streamlit,sentry,notion,n8n"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,next,postgresql,redis,streamlit,sentry,notion,n8n"/>
 </div>
 
 <br/>
