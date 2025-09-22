@@ -44,16 +44,3 @@ I combine <strong>analytical thinking, precision, and strategy</strong> to deliv
   <br/><br/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=mizael-anthony&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="GitHub Stats"/>
 </div>
-
-<br/>
-
-<hr/>
-
-<h2 align="center">📬 Get in Touch</h2>
-
-<div align="center">
-  💼 <a href="https://discord.gg/BBe97RnT" target="_blank">Discord</a> •  
-  ♟️ <a href="https://www.chess.com/member/mizael_anthony_365" target="_blank">Chess.com</a> •  
-  🧠 <a href="https://www.kaggle.com/mizaelanthony" target="_blank">Kaggle</a> •  
-  🌐 <a href="https://mizael.pro" target="_blank">Portfolio</a>
-</div>
