@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-With over <strong>10,000 hours</strong> in software development and competitive chess,  
+With over <strong>20,000 hours</strong> in software development and competitive chess,
 I combine <strong>analytical thinking, precision, and strategy</strong> to deliver high-quality solutions.
 
 🚀 I help startups and SMEs build <strong>scalable web applications and robust APIs</strong> using  
