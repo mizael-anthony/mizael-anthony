@@ -10,7 +10,7 @@
 With over <strong>20,000 hours</strong> in software development and competitive chess,
 I combine <strong>analytical thinking, precision, and strategy</strong> to deliver high-quality solutions.
 
-🚀 I help startups and SMEs build <strong>scalable web applications and robust APIs</strong> using  
+🚀 I help startups, SMEs and entrepreneurs build <strong>scalable web applications and robust APIs</strong> using  
 <strong>Django, FastAPI, Ruby on Rails, and NextJS</strong>, with a strong focus on maintainable architecture, testing, and cloud deployment.
 
 🌱 Currently exploring <strong>Machine Learning</strong> to create smarter, AI-driven applications.
