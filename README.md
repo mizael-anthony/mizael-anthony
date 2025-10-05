@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-With over <strong>20,000 hours</strong> in software development,  
+With over <strong>3 years</strong> in software development,
 I combine <strong>analytical thinking, precision, and strategy</strong> to deliver high-quality solutions.
 
 🚀 I help startups, SMEs, and entrepreneurs build <strong>scalable web applications and robust APIs</strong> using <strong>Django, FastAPI, Ruby on Rails, and Next.js</strong>, with a strong focus on maintainable architecture, testing, and cloud deployment.
