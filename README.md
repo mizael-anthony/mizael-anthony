@@ -2,18 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mizael+Anthony!" />
 </h1>
 
-<h3 align="center">💻 Backend & Web Developer from Madagascar 🇲🇬</h3>
+<h3 align="center">💻 Backend & Web Developer | ♟️ Chess Player 🇲🇬</h3>
 
 <br/>
 
 <div align="center">
-With over <strong>3 years</strong> in software development,
-I combine <strong>analytical thinking, precision, and strategy</strong> to deliver high-quality solutions.
+With over <strong>3 years</strong> in software development,  
+I combine <strong>analytical thinking, precision, and strategy</strong> — skills honed both in <strong>coding and competitive chess</strong> —  
+to deliver clean, scalable, and high-quality solutions.
 
-🚀 I help startups, SMEs, and entrepreneurs build <strong>scalable web applications and robust APIs</strong> using <strong>Python, Ruby on Rails and ReactJS</strong>, with a strong focus on maintainable architecture, testing, and cloud deployment.
+🚀 I help startups, SMEs, and entrepreneurs build <strong>robust APIs</strong> and <strong>scalable web applications</strong> using  
+<strong>Python, Ruby on Rails, and ReactJS</strong>, with a strong focus on maintainable architecture, testing, and cloud deployment.
 
 🌱 Currently exploring <strong>Machine Learning</strong> to create smarter, AI-driven applications.
-
 </div>
 
 <br/>
