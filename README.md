@@ -24,7 +24,7 @@ to deliver clean, scalable, and high-quality solutions.
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,react,postgresql,redis,celery,pandas,numpy,plotly,sentry,notion"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,react,postgresql,redis,graphql,supabase,n8n,ollama,huggingface,langchain,plotly,numpy,matplotlib"/>
 </div>
 
 <br/>
