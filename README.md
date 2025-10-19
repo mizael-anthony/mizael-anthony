@@ -13,8 +13,6 @@ to deliver clean, scalable, and high-quality solutions.
 
 🚀 I help startups, SMEs, and entrepreneurs build <strong>robust APIs</strong> and <strong>scalable web applications</strong> using  
 <strong>Python, Ruby on Rails, and ReactJS</strong>, with a strong focus on maintainable architecture, testing, and cloud deployment.
-
-🌱 Currently exploring <strong>Machine Learning</strong> to create smarter, AI-driven applications.
 </div>
 
 <br/>
@@ -24,7 +22,7 @@ to deliver clean, scalable, and high-quality solutions.
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,react,postgresql,redis,graphql,supabase,n8n,celery,huggingface,langchain,plotly"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,react,postgresql,redis,graphql,supabase,n8n,huggingface,grafana,plotly,digitalocean"/>
 </div>
 
 <br/>
