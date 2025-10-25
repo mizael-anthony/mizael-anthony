@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mizael+Anthony!" />
 </h1>
 
-<h3 align="center">💻 Backend & Web Developer | ♟️ Chess Player 🇲🇬</h3>
+<h3 align="center">💻 Backend Engineer | ♟️ Chess Player 🇲🇬</h3>
 
 <br/>
 
@@ -22,7 +22,7 @@ to deliver clean, scalable, and high-quality solutions.
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,react,postgresql,redis,graphql,supabase,n8n,huggingface,grafana,plotly,digitalocean"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,react,postgresql,redis,graphql,supabase,n8n,huggingface,grafana,plotly,digitalocean,cloudflare"/>
 </div>
 
 <br/>
