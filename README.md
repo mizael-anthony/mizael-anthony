@@ -10,39 +10,18 @@
 
 With over <strong>3 years</strong> of experience in backend engineering,  
 I build <strong>scalable, secure, and automation-driven systems</strong> that turn <strong>ideas into sustainable, high-impact products</strong>.
-
-</div>
-
-<div align="center">
-  <em>"I design systems like I play chess — with foresight, balance, and a focus on long-term scalability."</em>
-</div>
-
-<br/>
-
-<div align="center">  
-  
-💡 **Core Expertise:**  
-Scalable backend systems • API design • Database architecture • Cloud deployment
-
-🧠 **Current Focus:**  
-Integrating <strong>AI capabilities</strong> into backend systems — from API orchestration to intelligent feature integration —  
-with a strong emphasis on performance, maintainability, and reliability.
+I design systems like I play chess — with foresight, balance, and a focus on long-term scalability.
 
 </div>
 
 <br/>
-
-<hr/>
-
 <h2 align="center">🧰 Tech Stack & Tools</h2>
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,django,rails,postgresql,redis,graphql,react,supabase,n8n,huggingface,grafana,digitalocean,cloudflare" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,postgresql,redis,graphql,react,supabase,n8n,huggingface,grafana,digitalocean,cloudflare" />
 </div>
 
 <br/>
-
-<hr/>
 
 <h2 align="center">📊 GitHub Insights</h2>
 
