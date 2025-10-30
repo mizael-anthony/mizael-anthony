@@ -32,9 +32,20 @@ I design systems like I play chess — with foresight, balance, and a focus on l
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mizael-anthony&theme=darkhub&no-frame=true&margin-w=5" alt="Achievements"/>
+
+  <!-- 🏆 GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mizael-anthony&theme=darkhub&no-frame=true&margin-w=5" alt="GitHub Trophies" width="100%" />
+
   <br/><br/>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=mizael-anthony&count_private=true&theme=react&border_radius=15&fire=DD2727&ring=5DD5E5" alt="Streak Stats"/>
+
+  <!-- 🔥 Streak -->
+  <img src="https://streak-stats.demolab.com?user=mizael-anthony&count_private=true&theme=react&border_radius=15&fire=DD2727&ring=5DD5E5" 
+       alt="GitHub Streak" width="420" />
+
   <br/><br/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mizael-anthony&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="GitHub Stats"/>
+
+  <!-- 📊 Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mizael-anthony&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15"
+       alt="GitHub Stats" width="420" />
+
 </div>
