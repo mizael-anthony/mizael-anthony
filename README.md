@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  With over <strong>3 years of experience</strong> in backend engineering, I build
+  With over <strong>4 years of experience</strong> in backend engineering, I build
   <strong>scalable, secure, and automation-driven systems</strong> designed for real-world reliability and long-term growth.
   <br/><br/>
 
