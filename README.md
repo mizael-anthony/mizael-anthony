@@ -25,7 +25,7 @@
 <h2 align="center">🧰 Tech Stack & Tools</h2>
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,postgresql,redis,graphql,react,supabase,grafana,cloudflare" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,rails,postgresql,redis,graphql,react,supabase,grafana,plotly,cloudflare,n8n,prometheus,huggingface" />
 </div>
 
 <br/>
