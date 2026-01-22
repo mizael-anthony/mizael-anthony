@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Mizael+Anthony!" />
 </h1>
 
-<h3 align="center">⚙️ Backend Engineer | ♟️ Chess Player 🇲🇬</h3>
+<h3 align="center">⚙️ Python & Ruby Developer  | ♟️ Chess Player 🇲🇬</h3>
 
 <br/>
 
