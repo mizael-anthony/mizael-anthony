@@ -33,9 +33,9 @@
 <h2 align="center">📊 GitHub Insights</h2>
 
 <div align="center">
-  <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizael-anthony&langs_count=6&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img width="335" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mizael-anthony&langs_count=6&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   <br/><br/>
   <img width="420" src="https://streak-stats.demolab.com?user=mizael-anthony&count_private=true&theme=react&border_radius=15&fire=DD2727&ring=5DD5E5" alt="GitHub Streak" />
   <br/><br/>
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=mizael-anthony&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="GitHub Stats" />
+  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mizael-anthony&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="GitHub Stats" />
 </div>
