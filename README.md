@@ -2,21 +2,29 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Mizael+Anthony!" />
 </h1>
 
-<h3 align="center">Ruby on Rails developer augmented by AI.</h3>
+<h3 align="center">Ruby on Rails Developer building products that solve real business problems.</h3>
 
 <br/>
 
 <div align="center">
 
-  With over <strong>4 years of experience</strong> in backend engineering, I build
-  <strong>scalable, secure, and automation-driven systems</strong> designed for real-world reliability and long-term growth.
+  With over <strong>4 years of experience</strong>, I design and build
+  <strong>reliable and scalable web applications</strong> using Ruby on Rails.
+
   <br/><br/>
 
-  I approach software the same way I approach chess — with foresight, structure, and a focus on long-term advantage through
+  My focus is on delivering products that are not only fast to ship, but also
+  <strong>maintainable, well-structured, and ready to grow</strong>.
+
+  <br/><br/>
+
+  I approach software the same way I approach chess — with foresight, structure,
+  and a focus on long-term advantage through
   <strong>clean architecture, system resilience, and performance</strong>.
+
   <br/><br/>
 
-  <strong>Current focus:</strong> advancing in AI engineering to integrate intelligent automation and machine learning into production-grade systems.
+  <strong>Currently building:</strong> ChessGasy — a platform designed to modernize chess tournament management.
 
 </div>
 
