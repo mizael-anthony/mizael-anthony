@@ -7,25 +7,11 @@
 <br/>
 
 <div align="center">
+With over <strong>4 years of experience</strong>, I design and build <strong>reliable, scalable web applications</strong> using Ruby on Rails.
 
-  With over <strong>4 years of experience</strong>, I design and build
-  <strong>reliable and scalable web applications</strong> using Ruby on Rails.
+I focus on solving real business problems by delivering maintainable products built on <strong>clean architecture, strong testing practices, and production-ready systems</strong>.
 
-  <br/>
-
-  My focus is on delivering products that are not only fast to ship, but also
-  <strong>maintainable, well-structured, and ready to grow</strong>.
-
-  <br/>
-
-  I approach software the same way I approach chess — with foresight, structure,
-  and a focus on long-term advantage through
-  <strong>clean architecture, system resilience, and performance</strong>.
-
-  <br/>
-
-  <strong>Currently building:</strong> ChessGasy — a platform designed to modernize chess tournament management.
-
+My work combines <strong>Rails expertise, automation, and AI-assisted development</strong> to ship high-quality software faster while ensuring long-term reliability and performance.
 </div>
 
 <br/>
