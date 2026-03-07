@@ -11,18 +11,18 @@
   With over <strong>4 years of experience</strong>, I design and build
   <strong>reliable and scalable web applications</strong> using Ruby on Rails.
 
-  <br/><br/>
+  <br/>
 
   My focus is on delivering products that are not only fast to ship, but also
   <strong>maintainable, well-structured, and ready to grow</strong>.
 
-  <br/><br/>
+  <br/>
 
   I approach software the same way I approach chess — with foresight, structure,
   and a focus on long-term advantage through
   <strong>clean architecture, system resilience, and performance</strong>.
 
-  <br/><br/>
+  <br/>
 
   <strong>Currently building:</strong> ChessGasy — a platform designed to modernize chess tournament management.
 
