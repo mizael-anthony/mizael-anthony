@@ -19,7 +19,7 @@ My work combines <strong>Rails expertise, automation, and AI-assisted developmen
 <h2 align="center">🧰 Tech Stack & Tools</h2>
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,react,graphql,postgresql,supabase,gcp,grafana,circleci,fastapi,n8n,langchain" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,react,graphql,postgresql,supabase,docker,gcp,grafana,circleci,fastapi,n8n,langchain" />
 </div>
 
 <br/>
