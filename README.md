@@ -19,7 +19,7 @@ I leverage <strong>AI and automation</strong> to accelerate development while ma
 <h2 align="center">🧰 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,postgresql,supabase,docker,linux,circleci,graphql,react,firebase,fastapi,langchain,n8n" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,react,tailwindcss,postgresql,redis,supabase,docker,githubactions,gcp,grafana,prometheus,fastapi,langchain,n8n" />
 </div>
 
 <br/>
