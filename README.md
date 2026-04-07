@@ -2,16 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Hi+there!+👋;+I'm+Mizael+Anthony;" />
 </h1>
 
-<h3 align="center">Ruby on Rails Developer • SaaS Builder • AI-augmented</h3>
+<h3 align="center">Senior Ruby on Rails Engineer | SaaS Builder | AI-Augmented</h3>
 
 <div align="center">
-I build <strong>production-ready SaaS applications</strong> that solve real business problems.
+I help companies <strong>build and grow SaaS products</strong> by designing <strong>production-ready systems</strong> that solve real business problems.
 
-With 4+ years of experience, I design and ship <strong>scalable, maintainable systems</strong> using Ruby on Rails — from architecture to deployment.
+With 4+ years of experience, I combine <strong>product thinking and engineering</strong> to deliver scalable, maintainable applications using Ruby on Rails from architecture to deployment.
 
-Focused on <strong>clean architecture, testing, and DevOps practices</strong>, I deliver software built to perform in real-world environments.
+I focus on <strong>performance, reliability, and clean system design</strong>, ensuring every product is built to support real usage, growth, and long-term evolution.
 
-I leverage <strong>AI and automation</strong> to accelerate development while maintaining high standards of quality and reliability.
+Leveraging <strong>AI and automation</strong>, I accelerate development while maintaining high standards of quality, stability, and delivery.
 </div>
 
 <br/>
