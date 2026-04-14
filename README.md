@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Hi+there!+👋;+I'm+Mizael+Anthony;" />
 </h1>
 
-<h3 align="center">Senior Ruby on Rails Engineer | SaaS Builder | AI-Augmented</h3>
+<h3 align="center">Software Engineer - Ruby on Rails | SaaS Builder | AI-Augmented</h3>
 
 <div align="center">
 I help companies <strong>build and grow SaaS products</strong> by designing <strong>production-ready systems</strong> that solve real business problems.
