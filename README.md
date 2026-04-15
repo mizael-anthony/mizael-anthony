@@ -11,7 +11,6 @@
 
 <br/>
 
-<a href="https://github.com/mizael-anthony"><img src="https://img.shields.io/github/followers/mizael-anthony?style=for-the-badge&color=0D1117&labelColor=112240&logo=github&label=Followers" alt="Followers" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=mizael-anthony&style=for-the-badge&color=0D1117&labelColor=112240&label=VISITORS" alt="Profile views" />
 
 </div>
@@ -47,9 +46,7 @@
 ### 📚 Learning & Roadmap
 
 <div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69db5b2435198b31d6a212dd?variant=dark" alt="roadmap.sh"/></a>
-</div>
-
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69db5b2435198b31d6a212dd?variant=dark&roadmaps=ai-engineer" alt="roadmap.sh"/></a>
 </div>
 
 ---
