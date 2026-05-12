@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=rails,fastapi,postgresql,react,docker,gcp,grafana,langchain,n8n&theme=dark" alt="Tech Stack" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rails,django,fastapi,postgresql,react,docker,gcp,stripe,grafana,langchain,n8n&theme=dark" alt="Tech Stack" />
 
 </div>
 
