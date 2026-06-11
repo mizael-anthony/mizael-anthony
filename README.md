@@ -7,7 +7,7 @@
 
 <br/>
 
-**`Software Engineer`** · **`Ruby on Rails`** · **`SaaS Builder`** · **`AI-Augmented`**
+**`FullStack Developer`** · **`Ruby on Rails / ReactJS`** · **`n8n Automation`** · **`Agentic Dev`** · **`SaaS builder`**
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=rails,fastapi,react,tailwindcss,postgresql,mongodb,redis,docker,githubactions,gcp,langchain,n8n&theme=dark" alt="Tech Stack" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rails,fastapi,react,postgresql,mongodb,redis,docker,githubactions,langchain,n8n,claude,ollama,grafana&theme=dark" alt="Tech Stack" />
 
 </div>
 
