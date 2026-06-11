@@ -43,10 +43,10 @@
 
 <!-- ── Learning ── -->
 
-### 📚 Learning & Roadmap
+### 📚 Learning
 
 <div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69db5b2435198b31d6a212dd?variant=dark&roadmaps=ai-engineer,system-design" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69db5b2435198b31d6a212dd?variant=dark&roadmaps=ai-engineer%2Csystem-design" alt="roadmap.sh"/></a>
 </div>
 
 ---
