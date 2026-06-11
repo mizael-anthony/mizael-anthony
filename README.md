@@ -21,11 +21,11 @@
 
 ### 🧑‍💻 About Me
 
-> I help companies **build and grow SaaS products** by designing **production-ready systems** that solve real business problems.
+> I build **SaaS products, internal tools, APIs, and automation systems** for entrepreneurs, startups, and companies.
 >
-> With **4+ years** of experience, I combine product thinking and engineering to deliver scalable, maintainable applications using **Ruby on Rails** from architecture to deployment.
+> Specialized in **Ruby on Rails, React, and n8n**, I combine product thinking with clean engineering to create reliable, scalable, and business-focused solutions.
 >
-> I focus on **performance, reliability, and clean system design**, ensuring every product supports real usage, growth, and long-term evolution. Leveraging **AI and automation**, I accelerate development while maintaining high standards of quality and delivery.
+> Currently focused on **SaaS platforms, business workflows, internal tools, and AI-assisted web applications**.
 
 ---
 
@@ -46,7 +46,7 @@
 ### 📚 Learning & Roadmap
 
 <div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69db5b2435198b31d6a212dd?variant=dark&roadmaps=ai-engineer" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69db5b2435198b31d6a212dd?variant=dark&roadmaps=ai-engineer,system-design" alt="roadmap.sh"/></a>
 </div>
 
 ---
