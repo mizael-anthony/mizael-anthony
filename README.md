@@ -35,7 +35,41 @@
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=rails,fastapi,react,postgresql,mongodb,redis,docker,githubactions,langchain,n8n,claude,ollama,grafana&theme=dark" alt="Tech Stack" />
+<img width="42" height="42" src="https://thesvg.org/icons/react/default.svg" alt="React" title="React" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/hotwire/default.svg" alt="Hotwire" title="Hotwire" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/tailwind-css/default.svg" alt="TailwindCSS" title="TailwindCSS" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/ruby-on-rails/default.svg" alt="Ruby on Rails" title="Ruby on Rails" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/fastapi/default.svg" alt="FastAPI" title="FastAPI" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/payload-cms/dark.svg" alt="Payload CMS" title="Payload CMS" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/postgresql/default.svg" alt="PostgreSQL" title="PostgreSQL" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/redis/default.svg" alt="Redis" title="Redis" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/mongodb/default.svg" alt="MongoDB" title="MongoDB" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/docker/default.svg" alt="Docker" title="Docker" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/github-actions/default.svg" alt="GitHub Actions" title="GitHub Actions" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/hostinger/default.svg" alt="Hostinger" title="Hostinger" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/grafana/default.svg" alt="Grafana" title="Grafana" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/n8n/default.svg" alt="n8n" title="n8n" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/ollama/default.svg" alt="Ollama" title="Ollama" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/claude/default.svg" alt="Claude Code" title="Claude Code" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/langchain/color.svg" alt="LangChain" title="LangChain" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/google-cloud/default.svg" alt="Google Cloud Platform" title="Google Cloud Platform" />
 
 </div>
 
