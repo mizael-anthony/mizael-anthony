@@ -32,9 +32,9 @@
 <!-- ── Tech Stack ── -->
 
 ### 🧰 Tech Stack
-
 <div align="center">
 
+<!-- Row 1 -->
 <img width="42" height="42" src="https://thesvg.org/icons/react/default.svg" alt="React" title="React" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/hotwire/default.svg" alt="Hotwire" title="Hotwire" />
@@ -52,7 +52,10 @@
 <img width="42" height="42" src="https://thesvg.org/icons/redis/default.svg" alt="Redis" title="Redis" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/mongodb/default.svg" alt="MongoDB" title="MongoDB" />
-&nbsp;
+
+<br/>
+
+<!-- Row 2 -->
 <img width="42" height="42" src="https://thesvg.org/icons/docker/default.svg" alt="Docker" title="Docker" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/github-actions/default.svg" alt="GitHub Actions" title="GitHub Actions" />
