@@ -45,8 +45,6 @@
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/fastapi/default.svg" alt="FastAPI" title="FastAPI" />
 &nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/payload-cms/dark.svg" alt="Payload CMS" title="Payload CMS" />
-&nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/postgresql/default.svg" alt="PostgreSQL" title="PostgreSQL" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/redis/default.svg" alt="Redis" title="Redis" />
