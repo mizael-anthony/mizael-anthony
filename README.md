@@ -64,8 +64,6 @@
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/n8n/default.svg" alt="n8n" title="n8n" />
 &nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/ollama/default.svg" alt="Ollama" title="Ollama" />
-&nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/claude/default.svg" alt="Claude Code" title="Claude Code" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/langchain/color.svg" alt="LangChain" title="LangChain" />
