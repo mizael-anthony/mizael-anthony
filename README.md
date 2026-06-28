@@ -21,58 +21,49 @@
 
 ### 🧑‍💻 About Me
 
-> I build **SaaS products, internal tools, APIs, and automation systems** for entrepreneurs, startups, and companies.
+> I build **production-ready web solutions** that automate businesses — for founders, startups, and SMBs.
 >
-> Specialized in **Ruby on Rails, React, and n8n**, I combine product thinking with clean engineering to create reliable, scalable, and business-focused solutions.
->
-> Currently focused on **SaaS platforms, business workflows, internal tools, and AI-assisted web applications**.
+> **Four services, one point of contact:**
+> - **SaaS Development** — multi-tenant platforms from MVP to scale
+> - **n8n Automation** — workflows that replace manual work
+> - **Vibecoding Cleanup** — I rescue AI-generated MVPs and ship them to stable production
+> - **Legacy Migration** — modernizing old codebases without downtime
 
 ---
 
 <!-- ── Tech Stack ── -->
 
 ### 🧰 Tech Stack
+
 <div align="center">
 
-<!-- Row 1 -->
-<img width="42" height="42" src="https://thesvg.org/icons/react/default.svg" alt="React" title="React" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/hotwire/default.svg" alt="Hotwire" title="Hotwire" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/tailwind-css/default.svg" alt="TailwindCSS" title="TailwindCSS" />
-&nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/ruby-on-rails/default.svg" alt="Ruby on Rails" title="Ruby on Rails" />
 &nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/react/default.svg" alt="React" title="React" />
+&nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/fastapi/default.svg" alt="FastAPI" title="FastAPI" />
+&nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/hotwire/default.svg" alt="Hotwire" title="Hotwire" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/postgresql/default.svg" alt="PostgreSQL" title="PostgreSQL" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/redis/default.svg" alt="Redis" title="Redis" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/mongodb/default.svg" alt="MongoDB" title="MongoDB" />
-
-<br/>
-
-<!-- Row 2 -->
+&nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/docker/default.svg" alt="Docker" title="Docker" />
 &nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/github-actions/default.svg" alt="GitHub Actions" title="GitHub Actions" />
+<img width="42" height="42" src="https://thesvg.org/icons/grafana/default.svg" alt="Grafana" title="Grafana" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/hostinger/default.svg" alt="Hostinger" title="Hostinger" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/grafana/default.svg" alt="Grafana" title="Grafana" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/n8n/default.svg" alt="n8n" title="n8n" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/claude/default.svg" alt="Claude Code" title="Claude Code" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/langchain/color.svg" alt="LangChain" title="LangChain" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/google-cloud/default.svg" alt="Google Cloud Platform" title="Google Cloud Platform" />
 
 </div>
-
----
 
 <!-- ── Learning ── -->
 
