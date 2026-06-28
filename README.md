@@ -3,13 +3,21 @@
 <!-- ── Hero ── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:112240,100:61DAFB&height=140&section=header&text=&fontSize=0" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=520&height=55&duration=4000&pause=1200&color=61DAFB&lines=Hi+there!+👋;I'm+Mizael+Anthony;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=520&height=55&duration=4000&pause=1200&color=61DAFB&lines=Hi+there!+👋;I'm+Mizael+Anthony;Web+Developer+%26+Solopreneur" alt="Typing SVG" />
 
 <br/>
 
-**`FullStack Developer`** · **`Ruby on Rails / ReactJS`** · **`n8n Automation`** · **`Agentic Dev`** · **`SaaS builder`**
+**`Web Developer`** · **`SaaS`** · **`n8n Automation`** · **`Vibecoding Cleanup`** · **`Legacy Migration`**
 
 <br/>
+
+<a href="https://mizael.pro"><img src="https://img.shields.io/badge/Portfolio-mizael.pro-61DAFB?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+&nbsp;
+<a href="https://cal.com/mizael-anthony/15min"><img src="https://img.shields.io/badge/Book_a_call-15min-61DAFB?style=for-the-badge&logo=calendly&logoColor=white&labelColor=0D1117" alt="Book a call" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mizael-anthony"><img src="https://img.shields.io/badge/LinkedIn-Connect-61DAFB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=mizael-anthony&style=for-the-badge&color=0D1117&labelColor=112240&label=VISITORS" alt="Profile views" />
 
@@ -45,11 +53,11 @@
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/hotwire/default.svg" alt="Hotwire" title="Hotwire" />
 &nbsp;
+<img width="42" height="42" src="https://thesvg.org/icons/tailwind-css/default.svg" alt="TailwindCSS" title="TailwindCSS" />
+&nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/postgresql/default.svg" alt="PostgreSQL" title="PostgreSQL" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/redis/default.svg" alt="Redis" title="Redis" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/mongodb/default.svg" alt="MongoDB" title="MongoDB" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/docker/default.svg" alt="Docker" title="Docker" />
 &nbsp;
@@ -65,13 +73,17 @@
 
 </div>
 
+---
+
 <!-- ── Learning ── -->
 
-### 📚 Learning
+### 📚 Currently Learning
 
 <div align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69db5b2435198b31d6a212dd?variant=dark&roadmaps=ai-engineer%2Csystem-design" alt="roadmap.sh"/></a>
 </div>
+
+> 🤖 **AI Engineering** for smarter automation workflows · 🏗️ **System Design** for scaling SaaS platforms · 📱 **Flutter** for upcoming mobile projects
 
 ---
 
@@ -95,6 +107,27 @@
 
 <div align="center">
   <img width="760" src="https://github-readme-activity-graph.vercel.app/graph?username=mizael-anthony&theme=react-dark&radius=12&area=true&hide_border=false&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+<!-- ── Contact CTA ── -->
+
+### 📬 Let's Work Together
+
+<div align="center">
+
+> Have a **SaaS to build**, a **vibecoded MVP to rescue**, **workflows to automate**, or a **legacy app to modernize**?
+> Let's talk.
+
+<br/>
+
+<a href="https://mizael.pro"><img src="https://img.shields.io/badge/🌐_Portfolio-mizael.pro-61DAFB?style=for-the-badge&labelColor=0D1117" alt="Portfolio" /></a>
+&nbsp;
+<a href="https://cal.com/mizael-anthony/15min"><img src="https://img.shields.io/badge/📅_Book_a_15min_call-61DAFB?style=for-the-badge&labelColor=0D1117" alt="Book a call" /></a>
+&nbsp;
+<a href="https://wa.me/261343645786"><img src="https://img.shields.io/badge/💬_WhatsApp-61DAFB?style=for-the-badge&labelColor=0D1117" alt="WhatsApp" /></a>
+
 </div>
 
 ---
