@@ -81,8 +81,6 @@ Now building SaaS products and automating business operations for founders, star
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69db5b2435198b31d6a212dd?variant=dark&roadmaps=ai-engineer%2Csystem-design" alt="roadmap.sh"/></a>
 </div>
 
-> 🤖 **AI Engineering** for smarter automation workflows · 🏗️ **System Design** for scaling SaaS platforms · 📱 **Flutter** for upcoming mobile projects
-
 ---
 
 <!-- ── GitHub Stats ── -->
