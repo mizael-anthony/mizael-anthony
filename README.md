@@ -3,11 +3,11 @@
 <!-- ── Hero ── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:112240,100:61DAFB&height=140&section=header&text=&fontSize=0" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=520&height=55&duration=4000&pause=1200&color=61DAFB&lines=Hi+there!+👋;I'm+Mizael+Anthony;Web+Developer+%26+Solopreneur" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=520&height=55&duration=4000&pause=1200&color=61DAFB&lines=Hi+there!+👋;I'm+Mizael+Anthony;Software+Engineering;AI+Automation" alt="Typing SVG" />
 
 <br/>
 
-**`Web Developer`** · **`SaaS`** · **`n8n Automation`** · **`Vibecoding Cleanup`** · **`Legacy Migration`**
+**`AI-augmented Software Engineer`**
 
 <br/>
 
@@ -29,13 +29,11 @@
 
 ### 🧑‍💻 About Me
 
-> I build **production-ready web solutions** that automate businesses — for founders, startups, and SMBs.
->
-> **Four services, one point of contact:**
-> - **SaaS Development** — multi-tenant platforms from MVP to scale
-> - **n8n Automation** — workflows that replace manual work
-> - **Vibecoding Cleanup** — I rescue AI-generated MVPs and ship them to stable production
-> - **Legacy Migration** — modernizing old codebases without downtime
+Software Engineer shipping **Ruby on Rails** applications in production, focused on multi-tenant SaaS architecture, ETL pipelines, and third-party system integrations.
+
+Now building SaaS products and automating business operations for founders, startups, and SMBs, with heavy use of **n8n workflows** and the **Claude API** for AI-powered automation.
+
+**Currently shipping:** [ChessGasy](https://chessgasy.com)
 
 ---
 
@@ -107,27 +105,6 @@
 
 <div align="center">
   <img width="760" src="https://github-readme-activity-graph.vercel.app/graph?username=mizael-anthony&theme=react-dark&radius=12&area=true&hide_border=false&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-<!-- ── Contact CTA ── -->
-
-### 📬 Let's Work Together
-
-<div align="center">
-
-> Have a **SaaS to build**, a **vibecoded MVP to rescue**, **workflows to automate**, or a **legacy app to modernize**?
-> Let's talk.
-
-<br/>
-
-<a href="https://mizael.pro"><img src="https://img.shields.io/badge/🌐_Portfolio-mizael.pro-61DAFB?style=for-the-badge&labelColor=0D1117" alt="Portfolio" /></a>
-&nbsp;
-<a href="https://cal.com/mizael-anthony/15min"><img src="https://img.shields.io/badge/📅_Book_a_15min_call-61DAFB?style=for-the-badge&labelColor=0D1117" alt="Book a call" /></a>
-&nbsp;
-<a href="https://wa.me/261343645786"><img src="https://img.shields.io/badge/💬_WhatsApp-61DAFB?style=for-the-badge&labelColor=0D1117" alt="WhatsApp" /></a>
-
 </div>
 
 ---
