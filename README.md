@@ -74,7 +74,7 @@ Now building SaaS products and automating business operations for founders, star
 ---
 
 <!-- ── Learning ── -->
-
+<!-- 
 ### 📚 Currently Learning
 
 <div align="center">
@@ -82,7 +82,7 @@ Now building SaaS products and automating business operations for founders, star
 </div>
 
 ---
-
+-->
 <!-- ── GitHub Stats ── -->
 
 ### 📊 GitHub Insights
