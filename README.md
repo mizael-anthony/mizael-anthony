@@ -51,8 +51,6 @@ Now building SaaS products and automating business operations for founders, star
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/hotwire/default.svg" alt="Hotwire" title="Hotwire" />
 &nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/tailwind-css/default.svg" alt="TailwindCSS" title="TailwindCSS" />
-&nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/postgresql/default.svg" alt="PostgreSQL" title="PostgreSQL" />
 &nbsp;
 <img width="42" height="42" src="https://thesvg.org/icons/redis/default.svg" alt="Redis" title="Redis" />
