@@ -29,9 +29,9 @@
 
 ### 🧑‍💻 About Me
 
-Software Engineer shipping **Ruby on Rails** applications in production, focused on multi-tenant SaaS architecture, ETL pipelines, and third-party system integrations.
+AI-augmented Software Engineer. I ship SaaS products, management software, and AI automations for founders and small teams.
 
-Now building SaaS products and automating business operations for founders, startups, and SMBs, with heavy use of **n8n workflows** and the **Claude API** for AI-powered automation.
+I also clean up vibecoded MVPs so they can go to production.
 
 **Currently shipping:** [ChessGasy](https://chessgasy.com)
 
