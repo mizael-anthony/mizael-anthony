@@ -7,19 +7,10 @@
 
 <br/>
 
-**`AI-augmented Software Engineer`**
+**`Software Developer`**
+<p><strong>Specialized in:</strong> SaaS · Automation · Business App</p>
 
 <br/>
-
-<a href="https://mizael.pro"><img src="https://img.shields.io/badge/Portfolio-mizael.pro-61DAFB?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
-&nbsp;
-<a href="https://cal.com/mizael-anthony/15min"><img src="https://img.shields.io/badge/Book_a_call-15min-61DAFB?style=for-the-badge&logo=calendly&logoColor=white&labelColor=0D1117" alt="Book a call" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mizael-anthony"><img src="https://img.shields.io/badge/LinkedIn-Connect-61DAFB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mizael-anthony&style=for-the-badge&color=0D1117&labelColor=112240&label=VISITORS" alt="Profile views" />
 
 </div>
 
@@ -29,9 +20,9 @@
 
 ### 🧑‍💻 About Me
 
-AI-augmented Software Engineer. I ship SaaS products, management software, and AI automations for founders and small teams.
+Software is boring when you do it right. That's what five years of shipping code has taught me: tests are non-negotiable, small commits win, and shipping beats optimizing for problems that don't exist yet.
 
-I also clean up vibecoded MVPs so they can go to production.
+I work with startups and small teams that need real software but can't afford a full engineering team. I build SaaS, business apps, and automations. Rails and Python are my daily tools. I lean on Claude Code and n8n where they buy real hours back.
 
 **Currently shipping:** [ChessGasy](https://chessgasy.com)
 
@@ -41,33 +32,9 @@ I also clean up vibecoded MVPs so they can go to production.
 
 ### 🧰 Tech Stack
 
-<div align="center">
-
-<img width="42" height="42" src="https://thesvg.org/icons/ruby-on-rails/default.svg" alt="Ruby on Rails" title="Ruby on Rails" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/react/default.svg" alt="React" title="React" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/fastapi/default.svg" alt="FastAPI" title="FastAPI" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/hotwire/default.svg" alt="Hotwire" title="Hotwire" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/postgresql/default.svg" alt="PostgreSQL" title="PostgreSQL" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/redis/default.svg" alt="Redis" title="Redis" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/docker/default.svg" alt="Docker" title="Docker" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/grafana/default.svg" alt="Grafana" title="Grafana" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/hostinger/default.svg" alt="Hostinger" title="Hostinger" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/n8n/default.svg" alt="n8n" title="n8n" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/claude/default.svg" alt="Claude Code" title="Claude Code" />
-&nbsp;
-<img width="42" height="42" src="https://thesvg.org/icons/langchain/color.svg" alt="LangChain" title="LangChain" />
-
-</div>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,fastapi,react,postgresql,docker,n8n,gcp,langchain" alt="Tech stack" />
+</p>
 
 ---
 
@@ -81,6 +48,7 @@ I also clean up vibecoded MVPs so they can go to production.
 
 ---
 -->
+
 <!-- ── GitHub Stats ── -->
 
 ### 📊 GitHub Insights
