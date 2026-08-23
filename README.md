@@ -3,7 +3,7 @@
 <!-- ── Hero ── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:112240,100:61DAFB&height=140&section=header&text=&fontSize=0" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=520&height=55&duration=4000&pause=1200&color=61DAFB&lines=Hi+there!+👋;I'm+Mizael+Anthony;Software+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=520&height=55&duration=4000&pause=1200&color=61DAFB&lines=Hi+there!+👋;I'm+Mizael+Anthony;FullStack+Developer" alt="Typing SVG" />
 
 <br/>
 <p><strong>Specialized in:</strong> SaaS · Automation · Business App</p>
@@ -31,7 +31,7 @@ I work with startups and small teams that need real software but can't afford a 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,fastapi,react,postgresql,redis,mongodb,docker,n8n,gcp" alt="Tech stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,fastapi,react,postgresql,mongodb,docker,n8n,gcp" alt="Tech stack" />
 </p>
 
 ---
