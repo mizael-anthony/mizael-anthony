@@ -57,9 +57,9 @@ I work with startups and small teams that need real software but can't afford a 
 
 <br/><br/>
 
-<img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mizael-anthony&show_icons=true&theme=react&border_radius=12&icon_color=61DAFB&bg_color=0D1117&border_color=112240" alt="GitHub Stats" />
+<img width="420" src="https://github-stats-extended.vercel.app/api?username=mizael-anthony&show_icons=true&theme=react&border_radius=12&icon_color=61DAFB&bg_color=0D1117&border_color=112240" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img width="340" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mizael-anthony&langs_count=8&layout=compact&theme=react&border_radius=12&bg_color=0D1117&border_color=112240" alt="Top Languages" />
+<img width="340" src="https://github-stats-extended.vercel.app/api/top-langs?username=mizael-anthony&langs_count=8&layout=compact&theme=react&border_radius=12&bg_color=0D1117&border_color=112240" alt="Top Languages" />
 
 </div>
 
