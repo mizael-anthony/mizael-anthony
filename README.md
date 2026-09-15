@@ -3,7 +3,7 @@
 <!-- ── Hero ── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:112240,100:61DAFB&height=140&section=header&text=&fontSize=0" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=520&height=55&duration=4000&pause=1200&color=61DAFB&lines=Hi+there!+👋;I'm+Mizael+Anthony;FullStack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=520&height=55&duration=4000&pause=1200&color=61DAFB&lines=I'm+Mizael+Anthony;Ruby+on+Rails+Developer;5%2B+years+shipping+to+production" alt="Typing SVG" />
 
 <br/>
 <p><strong>Specialized in:</strong> SaaS · Automation · Business App</p>
@@ -18,9 +18,9 @@
 
 ### 🧑‍💻 About Me
 
-Software is boring when you do it right. That's what five years of shipping code has taught me: tests are non-negotiable, small commits win, and shipping beats optimizing for problems that don't exist yet.
+Ruby on Rails developer, 5+ years shipping to production. Started in QA at Ingenosya, moved to backend development, so tests, small commits, and green CI were the starting point, not lessons learned the hard way.
 
-I work with startups and small teams that need real software but can't afford a full engineering team. I build SaaS, business apps, and automations. Rails and Python are my daily tools. I lean on Claude Code and n8n where they buy real hours back.
+Comfortable in a team or solo, from the first API endpoint to the CI/CD pipeline behind it. Rails is my daily driver; Python (Django, FastAPI) and React alongside. I use n8n and Claude Code where they save real engineering hours.
 
 **Currently shipping:** [ChessGasy](https://chessgasy.com)
 
@@ -31,7 +31,7 @@ I work with startups and small teams that need real software but can't afford a 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,fastapi,react,postgresql,mongodb,docker,n8n,gcp" alt="Tech stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,python,react,postgresql,payload,redis,docker,githubactions,aws,cursor,n8n,ollama,langchain" alt="Tech stack" />
 </p>
 
 ---
@@ -76,5 +76,3 @@ I work with startups and small teams that need real software but can't afford a 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:112240,100:61DAFB&height=80&section=footer" alt="footer wave" />
-
-</div>
