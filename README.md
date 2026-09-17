@@ -31,7 +31,7 @@ Comfortable in a team or solo, from the first API endpoint to the CI/CD pipeline
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,python,react,postgresql,payload,redis,docker,githubactions,aws,cursor,n8n,ollama,langchain" alt="Tech stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,python,react,postgresql,payload,redis,docker,githubactions,gcp,cursor,n8n,ollama,langchain" alt="Tech stack" />
 </p>
 
 ---
