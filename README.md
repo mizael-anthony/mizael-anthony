@@ -3,10 +3,7 @@
 <!-- ── Hero ── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:112240,100:61DAFB&height=140&section=header&text=&fontSize=0" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=520&height=55&duration=4000&pause=1200&color=61DAFB&lines=I'm+Mizael+Anthony;Ruby+on+Rails+Developer;5%2B+years+shipping+to+production" alt="Typing SVG" />
-
-<br/>
-<p><strong>Specialized in:</strong> SaaS · Automation · Business App</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=560&height=55&duration=4000&pause=1200&color=61DAFB&lines=I'm+Mizael+Anthony;Full-Stack+Developer;5%2B+years+shipping+to+production" alt="Typing SVG" />
 
 <br/>
 
@@ -18,11 +15,9 @@
 
 ### 🧑‍💻 About Me
 
-Ruby on Rails developer, 5+ years shipping to production. Started in QA at Ingenosya, moved to backend development, so tests, small commits, and green CI were the starting point, not lessons learned the hard way.
+Full-stack developer, 5+ years shipping products to production. Started in QA, moved to development, in-house and freelance.
 
-Comfortable in a team or solo, from the first API endpoint to the CI/CD pipeline behind it. Rails is my daily driver; Python (Django, FastAPI) and React alongside. I use n8n and Claude Code where they save real engineering hours.
-
-**Currently shipping:** [ChessGasy](https://chessgasy.com)
+I deliver in team or solo, from the first API endpoint to the CI/CD pipeline behind it. Rails is my foundation. Python (Django, FastAPI) and React/Next.js alongside. n8n and Claude Code where they save engineering hours.
 
 ---
 
@@ -31,21 +26,10 @@ Comfortable in a team or solo, from the first API endpoint to the CI/CD pipeline
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,python,react,postgresql,payload,redis,docker,githubactions,gcp,cursor,n8n,ollama,langchain" alt="Tech stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,python,django,fastapi,react,nextjs,typescript,postgresql,redis,docker,githubactions,gcp,cursor,n8n" alt="Tech stack" />
 </p>
 
 ---
-
-<!-- ── Learning ── -->
-<!-- 
-### 📚 Currently Learning
-
-<div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69db5b2435198b31d6a212dd?variant=dark&roadmaps=ai-engineer%2Csystem-design" alt="roadmap.sh"/></a>
-</div>
-
----
--->
 
 <!-- ── GitHub Stats ── -->
 
@@ -76,3 +60,5 @@ Comfortable in a team or solo, from the first API endpoint to the CI/CD pipeline
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:112240,100:61DAFB&height=80&section=footer" alt="footer wave" />
+
+</div>
