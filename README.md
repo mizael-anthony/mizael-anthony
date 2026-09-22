@@ -17,7 +17,7 @@
 
 Full-stack developer, 5+ years shipping products to production. Started in QA, moved to development, in-house and freelance.
 
-I deliver in team or solo, from the first API endpoint to the CI/CD pipeline behind it. Rails is my foundation. Python (Django, FastAPI) and React/Next.js alongside. n8n and Claude Code where they save engineering hours.
+I deliver in team or solo, from the first API endpoint to the CI/CD pipeline behind it. Rails is my foundation. Python and React alongside. n8n and Claude Code where they save engineering hours.
 
 ---
 
@@ -26,7 +26,7 @@ I deliver in team or solo, from the first API endpoint to the CI/CD pipeline beh
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,django,fastapi,react,postgresql,redis,docker,githubactions,gcp,cursor,n8n" alt="Tech stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,django,react,nextjs,postgresql,redis,docker,githubactions,gcp,cursor,n8n" alt="Tech stack" />
 </p>
 
 ---
