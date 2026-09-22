@@ -26,7 +26,7 @@ I deliver in team or solo, from the first API endpoint to the CI/CD pipeline beh
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,python,django,fastapi,react,nextjs,typescript,postgresql,redis,docker,githubactions,gcp,cursor,n8n" alt="Tech stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rails,django,fastapi,react,postgresql,redis,docker,githubactions,gcp,cursor,n8n" alt="Tech stack" />
 </p>
 
 ---
